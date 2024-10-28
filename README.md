@@ -1,6 +1,17 @@
 # final_project_obat_ku
 
-A new Flutter project.
+Merupakan aplikasi yang dapat membantu para pengguna untuk mencari informasi tentang obat-obatan berdasarkan penyakit yang sedang dialami. Aplikasi ini dibuat untuk memberikan kemudahan bagi pengguna dalam memilih obat yang sesuai dengan kondisi kesehatannya.
+
+## Fitur yang dimiliki
+- kategori penyakit
+- deskripsi penyakit
+- rekomendasi obat
+- informasi obat-obatan
+
+## Preview app
+![Penyakit](https://drive.google.com/uc?export=view&id=1R5ZdV17fJ_Xhmbc9Bxgc162sfZg4CKaH)<br><br>
+![Detail Penyakit](https://drive.google.com/uc?export=view&id=1hgCAJVFABjXhc5fd4al0rWbtn7frGD6T)<br><br>
+![DetailObat](https://drive.google.com/uc?export=view&id=1nP01TR3J9oho61wdyrZwofdp8x59Vwa1)<br><br>
 
 ## Getting Started
 
